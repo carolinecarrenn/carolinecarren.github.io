@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/carolinecarren/cv-portfolio?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/carolinecarren/cv-portfolio?style=social)
 
-Portfolio website dengan fitur interaktif, dark mode, dan responsive design. Dibuat untuk memamerkan skill dan proyek saya sebagai mahasiswa Teknik Informatika.
+Portfolio website dengan fitur interaktif, dark mode, dan responsive design. 
 
 🔗 **Live Demo**: [https://carolinecarrenn.github.io/](https://carolinecarrenn.github.io/)
 
@@ -11,7 +11,7 @@ Portfolio website dengan fitur interaktif, dark mode, dan responsive design. Dib
 - ✅ Tema gelap/terang otomatis
 - ✅ Animasi scroll
 - ✅ Form kontak interaktif
-- ✅ Responsif (mobile & desktop)
+- ✅ Responsif (desktop)
 - ✅ Efek hover dinamis
 
 ## 🛠 Teknologi
@@ -29,9 +29,5 @@ Portfolio website dengan fitur interaktif, dark mode, dan responsive design. Dib
 ## 🚀 Cara Menjalankan
 ### Opsi 1: Akses Online
 Buka langsung di GitHub Pages:  
-[https://carolinecarrenn.github.io/cv-portfolio/](https://carolinecarrenn.github.io/cv-portfolio/)
+[https://carolinecarrenn.github.io/](https://carolinecarrenn.github.io/)
 
-### Opsi 2: Jalankan Lokal
-1. Clone repository:
-   ```bash
-   git clone https://github.com/carolinecarren/cv-portfolio.git
