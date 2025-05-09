@@ -5,7 +5,7 @@
 
 Portfolio website dengan fitur interaktif, dark mode, dan responsive design. Dibuat untuk memamerkan skill dan proyek saya sebagai mahasiswa Teknik Informatika.
 
-🔗 **Live Demo**: [https://carolinecarren.github.io/cv-portfolio/](https://carolinecarrenn.github.io/)
+🔗 **Live Demo**: [https://carolinecarrenn.github.io/](https://carolinecarrenn.github.io/)
 
 ## ✨ Fitur
 - ✅ Tema gelap/terang otomatis
