@@ -24,7 +24,7 @@ Portfolio website dengan fitur interaktif, dark mode, dan responsive design. Dib
 ## 🖼 Screenshot
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](![Image](https://github.com/user-attachments/assets/9ca23e1e-2211-4673-8c6b-bcef6da7a511)) | ![Dark Mode](![Image](https://github.com/user-attachments/assets/b5e19efc-7965-4edf-a832-7c63c91780db)) |
+| ![Light Mode]![Image](https://github.com/user-attachments/assets/9ca23e1e-2211-4673-8c6b-bcef6da7a511) | ![Dark Mode]![Image](https://github.com/user-attachments/assets/b5e19efc-7965-4edf-a832-7c63c91780db) |
 
 ## 🚀 Cara Menjalankan
 ### Opsi 1: Akses Online
